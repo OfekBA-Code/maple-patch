@@ -1,4 +1,4 @@
-# MapleStory patch manifest  -  2026-07-25 00:18
+# MapleStory patch manifest  -  2026-07-25 00:20
 # format: filename|sha256|size|url
 Map.wz|7ca9c2e415223e4934441e0f72d28c2b095fe58751cfc888f33c6498a945909a|638422643|https://github.com/OfekBA-Code/maple-patch/releases/download/patch/Map.wz
 String.wz|024f606db61276b7329827c99f8bbd7b6c3ea00c3a425aa9aa836fbda43f9e09|3561684|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/String.wz
