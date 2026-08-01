@@ -1,6 +1,6 @@
-# MapleStory patch manifest  -  2026-07-31 22:50
+# MapleStory patch manifest  -  2026-08-01 12:51
 # format: filename|sha256|size|url
 Map.wz|7ca9c2e415223e4934441e0f72d28c2b095fe58751cfc888f33c6498a945909a|638422643|https://github.com/OfekBA-Code/maple-patch/releases/download/patch/Map.wz
 String.wz|8f21abe6ecf1105bc932920c13f1bb57bfeb35ab2711e7cf3b0398a673da01f6|3561331|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/String.wz
 Npc.wz|2992910ac5f65fa3d1ca4b2469fa4105f948f6ceb4a6c47ee6953be9d04dee17|53498512|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/Npc.wz
-Skill.wz|ed0333fe4e8b7f734f7c4958e5c782890952ee00376e08ae03bfbc6708528ca0|76506927|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/Skill.wz
+Skill.wz|6f4cc0b774d6f762a6b529540d5fccc0e54f8aa14e6b47c0d86507f3d5f24f3d|76506927|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/Skill.wz
