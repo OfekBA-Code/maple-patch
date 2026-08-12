@@ -1,6 +1,9 @@
-# MapleStory patch manifest  -  2026-08-08 16:16
+# MapleStory patch manifest  -  2026-08-12 15:57
 # format: filename|sha256|size|url
 Map.wz|7ca9c2e415223e4934441e0f72d28c2b095fe58751cfc888f33c6498a945909a|638422643|https://github.com/OfekBA-Code/maple-patch/releases/download/patch/Map.wz
 String.wz|8f21abe6ecf1105bc932920c13f1bb57bfeb35ab2711e7cf3b0398a673da01f6|3561331|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/String.wz
 Npc.wz|2992910ac5f65fa3d1ca4b2469fa4105f948f6ceb4a6c47ee6953be9d04dee17|53498512|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/Npc.wz
 Skill.wz|1db206b522c9da25317f8d96587a286528df386cac3042adf3a3cb37c14ee2e6|76507809|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/Skill.wz
+Character.wz|ed787285951c1388f3cf2a515999ab1c45307265ba9b9d01f2ba3f75f81c371c|206267331|https://github.com/OfekBA-Code/maple-patch/releases/download/patch/Character.wz
+dinput8.dll|1c0835181b529cfd7cea720688b294e6ae0cce83d72ebacbda003aeb7262a61a|2840064|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/dinput8.dll
+config.ini|54c268f4767b020668b9a2debafcc97a5d2d9e222e65ddbf553e6f7b4bd8de0b|1821|https://raw.githubusercontent.com/OfekBA-Code/maple-patch/main/config.ini
